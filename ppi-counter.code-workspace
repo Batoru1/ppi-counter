@@ -1,8 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../../udemy/complete-javascript-course-jonasschmedtmann/04-HTML-CSS/starter"
+    },
+    {
+      "path": "../../udemy/complete-javascript-course-jonasschmedtmann/05-Guess-My-Number/starter"
+    }
+  ],
+  "settings": {}
 }
